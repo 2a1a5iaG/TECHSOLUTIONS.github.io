@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nombre": "Desarrollo Web", "precio": 1200, "cantidad": 10, "descripcion": "Sitios web responsivos y modernos.", "promocion": true, "imagen": "imagen2.png" },
+  { "id": 2, "nombre": "Consultoría TI", "precio": 800, "cantidad": 5, "descripcion": "Asesoría experta en infraestructura tecnológica.", "promocion": false, "imagen": "consultoria.jpg" },
+  { "id": 3, "nombre": "Soporte Técnico", "precio": 500, "cantidad": 15, "descripcion": "Mantenimiento preventivo y correctivo.", "promocion": false, "imagen": "soporte.jpg" },
+  { "id": 4, "nombre": "Seguridad Informática", "precio": 1500, "cantidad": 8, "descripcion": "Protección de datos y análisis de vulnerabilidades.", "promocion": true, "imagen": "seguridad.jpg" },
+  { "id": 5, "nombre": "Automatización", "precio": 2000, "cantidad": 6, "descripcion": "Implementación de bots y RPA.", "promocion": false, "imagen": "automatizacion.jpg" },
+  { "id": 6, "nombre": "Cloud Computing", "precio": 2500, "cantidad": 4, "descripcion": "Migración de sistemas a la nube.", "promocion": true, "imagen": "cloud.jpg" },
+  { "id": 7, "nombre": "Capacitación en TI", "precio": 700, "cantidad": 20, "descripcion": "Entrenamientos para tu equipo en nuevas tecnologías.", "promocion": false, "imagen": "capacitacion.jpg" },
+  { "id": 8, "nombre": "Big Data & Analytics", "precio": 3000, "cantidad": 3, "descripcion": "Soluciones de análisis de datos a gran escala.", "promocion": false, "imagen": "bigdata.jpg" },
+  { "id": 9, "nombre": "Desarrollo de Apps", "precio": 1800, "cantidad": 7, "descripcion": "Aplicaciones móviles nativas e híbridas.", "promocion": true, "imagen": "apps.png" },
+  { "id": 10, "nombre": "IA y Machine Learning", "precio": 4000, "cantidad": 2, "descripcion": "Modelos de IA para optimizar procesos.", "promocion": false, "imagen": "ia.jpg" }
+]

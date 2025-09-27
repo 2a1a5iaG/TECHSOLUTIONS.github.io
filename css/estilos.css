@@ -1,0 +1,33 @@
+/* ===== ESTILOS GENERALES ===== */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+  background: #f8f9fa;
+}
+
+/* Cards de servicios */
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.btn-primary {
+  background-color: #171718;
+}
+
+.btn-primary:hover {
+  background-color: #6a6d70;
+  border-color: #232325;
+}
+
